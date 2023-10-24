@@ -1,0 +1,11 @@
+<!-- index.html -->
+<!DOCTYPE html>
+<html>
+<head>
+  <link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <h1>Hello, World!</h1>
+  <p>This is my simple website.</p>
+  <script src="script.js"></script>
+</body>
